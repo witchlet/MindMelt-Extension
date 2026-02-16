@@ -4,11 +4,6 @@ This Chrome extension plays YouTube videos as if you are fading in and out of co
 
 [Here](https://www.instagram.com/p/DMdpb39BO1B/?hl=en) is an example of the "fading in and out of consciousness" effect that we emulated. Also inspired by [me after the lobotomy original](https://www.youtube.com/watch?v=vI2eNeD-jWQ), with the extension using the same sound effect as in the video.
 
-<video width="320" height="240" controls>
-  <source src="mindmelt.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 # Usage & Features
 Simply install and find a YouTube video of your choice. Every few seconds, this extension fades the webpage of whatever video is playing and its audio to black. Then, they fade back in to a different point in the video, with the playback speed randomized and with a 40% chance of the sound effect from the aforementioned video playing. Not yet implemented is a config GUI to alter the parameters of the effects.
 
